@@ -1,6 +1,15 @@
 # 🌸 Flower Festival (2D OpenGL Game)
 
-![Project Banner](Assets/menu.png) <!-- استبدلي مسار الصورة بصورة واجهة اللعبة لديك إن وجدت -->
+<p align="center">
+  <img src="Assets/Scene0.png" width="30%">
+  <img src="Assets/Scene1.png" width="30%">
+  <img src="Assets/Scene2.png" width="30%">
+</p>
+<p align="center">
+  <img src="Assets/scene3.png" width="30%">
+  <img src="Assets/scene4.png" width="30%">
+  <img src="Assets/scene5.png" width="30%">
+</p>
 
 A 2D interactive graphics and arrangement game built with **C++** and **OpenGL (GLUT)**. Players navigate through aesthetic botanical displays, manage flower selections, and interact with custom 2D transformations.
 
